@@ -1,0 +1,12 @@
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.exe.config
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.exe
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.pdb
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\bin\Debug\Guna.UI2.dll
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.AssemblyReference.cache
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.Form1.resources
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.Properties.Resources.resources
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.GenerateResource.cache
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.CoreCompileInputs.cache
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.Up2Date
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.exe
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.pdb
