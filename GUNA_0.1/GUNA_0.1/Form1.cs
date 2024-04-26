@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.UI.WebControls;
 using System.Windows.Forms;
 
 namespace GUNA_0._1
@@ -34,6 +35,14 @@ namespace GUNA_0._1
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
+            if(Email.Text == "MR_M4TR1X" && Password.Text == "M1necraft_S3rv3r")
+            {
+                new Form2().Show();
+                this.Hide();
+            }else 
+            {
+                MessageBox.Show("Chyba");
+            }
 
         }
 
