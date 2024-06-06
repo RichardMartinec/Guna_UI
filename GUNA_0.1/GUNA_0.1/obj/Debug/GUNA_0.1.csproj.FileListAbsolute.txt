@@ -22,3 +22,45 @@ D:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.CoreCompil
 D:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.CopyComplete
 D:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.exe
 D:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.pdb
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.exe.config
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.exe
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.pdb
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\bin\Debug\Guna.UI2.dll
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.AssemblyReference.cache
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.Form1.resources
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.Properties.Resources.resources
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.GenerateResource.cache
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.CoreCompileInputs.cache
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.Up2Date
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.exe
+E:\SPSKNM\ProgramovanieIT\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.pdb
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.Form2.resources
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.exe.config
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.exe
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.pdb
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\bin\Debug\Guna.UI2.dll
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.AssemblyReference.cache
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.Form1.resources
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.Form2.resources
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.Properties.Resources.resources
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.GenerateResource.cache
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.CoreCompileInputs.cache
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.CopyComplete
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.exe
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.pdb
+D:\ludo\Richi&Arturo\Richi\SPS KNM\Programovanie\Guna\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.PlayerList.resources
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.exe.config
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.exe
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\bin\Debug\GUNA_0.1.pdb
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\bin\Debug\Guna.UI2.dll
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.AssemblyReference.cache
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.Form1.resources
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.Form2.resources
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.PlayerList.resources
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.Properties.Resources.resources
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.GenerateResource.cache
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.CoreCompileInputs.cache
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.csproj.CopyComplete
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.exe
+E:\Guna-06062024\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0.1.pdb
+D:\Richi\SPSIT\ProgramovanieIT\C++\GUNA_0.1\GUNA_0.1\obj\Debug\GUNA_0._1.PlayerList.resources

@@ -73,6 +73,16 @@ namespace GUNA_0._1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap loupe {
+            get {
+                object obj = ResourceManager.GetObject("loupe", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap minecraft_s2kxfahyg30sob8q {
             get {
                 object obj = ResourceManager.GetObject("minecraft-s2kxfahyg30sob8q", resourceCulture);
@@ -106,6 +116,26 @@ namespace GUNA_0._1.Properties {
         internal static System.Drawing.Bitmap minecraft_s2kxfahyg30sob8q_smaller2 {
             get {
                 object obj = ResourceManager.GetObject("minecraft-s2kxfahyg30sob8q_smaller2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap plus {
+            get {
+                object obj = ResourceManager.GetObject("plus", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap plus_2 {
+            get {
+                object obj = ResourceManager.GetObject("plus 2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
